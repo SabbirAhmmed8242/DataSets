@@ -13,3 +13,6 @@ There is a many type of data Sets in csv and others format <br>
 <h1>
   3. Shope Selles DataSet</h1>
     to use this dataset directly in google colab or others use this link <b> "https://raw.githubusercontent.com/SabbirAhmmed8242/DataSets/main/Online-Shope_Selling_DataSet.csv" </b><br>
+<h1>
+  4. Fashion-Mist Small DataSet</h1>
+    to use this dataset directly in google colab or others use this link <b> "https://raw.githubusercontent.com/SabbirAhmmed8242/DataSets/main/fmnist_small.csv" </b><br>
